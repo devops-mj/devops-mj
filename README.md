@@ -37,7 +37,8 @@ Transition into a frontend developer role
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mjthechosen@gmail.com)
 
 ---
-**
-🌱 Learning every day, building practical skills, one project at a time**
+
+
+**🌱 Learning every day, building practical skills, one project at a time**
 
 📚 **Follow my learning journey through my [DevOps Portfolio](https://github.com/devops-mj/devops-portfolio-overview)!**
